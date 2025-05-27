@@ -89,7 +89,7 @@ header nav ul li a .active i{
 }
 header .footer{
     text-align: center;
-    background-color: var(--sideBgcolor);
+    background-color: var(--bgcolor);
     width: 300px;
     color: lightgrey;
     font-size: 14px;
